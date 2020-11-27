@@ -2,7 +2,10 @@
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Welcome to my github profile
 
-https://github.com/RaghavK16/RaghavK16/blob/master/octo.gif
+<div align="center">
+<src="https://github.com/RaghavK16/RaghavK16/blob/master/octo.gif"/ alt="GitHub Logo" width="150" height="150">
+</div>
+
 
 <!--
 **Mrunal-G/Mrunal-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
