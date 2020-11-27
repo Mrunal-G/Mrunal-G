@@ -14,16 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=kunal-kushwaha&show_icons=true&hide_border=true)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
-
--->
-
-
 github-readme-stats-tau-dusky.vercel.app
 
+-->
 
 ![Kunal's github stats](https://github-readme-stats-tau-dusky.vercel.app/api?username=Mrunal-G&show_icons=true&hide_border=true)
 <br />
