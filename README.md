@@ -3,7 +3,7 @@
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Welcome to my github profile
 
 <div align="center">
-<src="https://github.com/RaghavK16/RaghavK16/blob/master/octo.gif"/ alt="GitHub Logo" width="150" height="150">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
 
