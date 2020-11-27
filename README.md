@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
 
 -->
+
+
+github-readme-stats-tau-dusky.vercel.app
+
+
+![Kunal's github stats](https://github-readme-stats-tau-dusky.vercel.app/api?username=Mrunal-G&show_icons=true&hide_border=true)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrunal-G.Mrunal-G)
