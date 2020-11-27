@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Welcome to my github profile
 
 <!--
 **Mrunal-G/Mrunal-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 github-readme-stats-tau-dusky.vercel.app
 
 -->
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+
 ![Kunal's github stats](https://github-readme-stats-tau-dusky.vercel.app/api?username=Mrunal-G&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrunal-G.Mrunal-G)
