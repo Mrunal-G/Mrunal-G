@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 
 github-readme-stats-tau-dusky.vercel.app
 
--->
 
-<!--
+
+
 ![Mrunal's github stats](https://github-readme-stats-tau-dusky.vercel.app/api?username=Mrunal-G&show_icons=true&hide_border=true)
 <br /> 
+-->
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrunal-G.Mrunal-G)  -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrunal-G.Mrunal-G)  
