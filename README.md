@@ -1,6 +1,25 @@
-### Hi there 👋 
+### Hi there, I'm Mrunal :😄
+Passionate about **AI/ML, NLP and Data** 
+
+$\underline{Skills\ and\ Tools:}$ 
+
+- Programming Languages: Python, C#, C, JavaScript
+- IDEs & version control: Visual Studio Code, Spyder, Visual Studio, Git, GitHub
+- ML libraries and frameworks: Pandas, NumPy, scikit-learn, Pytorch, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, knowledge graphs analytics
+- Other: Linux, bash scripting, Docker, Jira, SQL, GCP, AWS, S3, AWS SageMaker Ground Truth, API, Data formats (XML, JSON, parquet), ETL
+- Data Visualization: Google Looker studio, Power BI, Tableau
+- NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper
+
+$\underline{Research\ Links:}$ 
+
+- M. P. Gavali and A. Verma, "Automatic Recognition of Emotions in Speech With Large Self-Supervised Learning Transformer Models," IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings), Sep 16-17, 2023, Michigan, USA.
+
 
 <!--
+
+Big Data on Contract Interpretation: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4465559
+
+
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Welcome to my github profile
 
 <div align="center">
@@ -21,6 +40,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 
 github-readme-stats-tau-dusky.vercel.app
 
