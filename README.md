@@ -8,7 +8,7 @@ $\underline{Skills\ and\ Tools:}$
 - ML libraries and frameworks: Pandas, NumPy, scikit-learn, Pytorch, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, knowledge graphs analytics
 - Other: Linux, bash scripting, Docker, Jira, SQL, GCP, AWS, S3, AWS SageMaker Ground Truth, API, Data formats (XML, JSON, parquet), ETL
 - Data Visualization: Google Looker studio, Power BI, Tableau
-- NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper
+- AI/NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper
 
 $\underline{Research\ Links:}$ 
 
