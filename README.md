@@ -3,7 +3,7 @@ Passionate about **AI/ML, NLP and Data**
 
 $\underline{Skills\ and\ Tools:}$ 
 
-- Programming Languages: Python, C#, C, JavaScript
+- Programming Languages: Python, R, C#, HTML/CSS, JavaScript
 - IDEs & version control: Visual Studio Code, Spyder, Visual Studio, Git, GitHub
 - ML libraries and frameworks: Pandas, NumPy, scikit-learn, Pytorch, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, knowledge graphs analytics
 - Other: Linux, bash scripting, Docker, Jira, SQL, GCP, AWS, S3, AWS SageMaker Ground Truth, API, Data formats (XML, JSON, parquet), ETL
