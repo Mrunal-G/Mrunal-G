@@ -10,7 +10,7 @@ $\underline{Skills\ and\ Tools:}$
 - Data Visualization: Google Looker studio, Power BI, Tableau
 - AI/NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper
 
-  - SQL practise: https://sqlbolt.com/
+  - SQL practice: https://sqlbolt.com/
 
 $\underline{Research\ Links:}$ 
 
