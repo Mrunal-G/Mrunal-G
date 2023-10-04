@@ -10,6 +10,8 @@ $\underline{Skills\ and\ Tools:}$
 - Data Visualization: Google Looker studio, Power BI, Tableau
 - AI/NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper
 
+  - SQL practise: https://sqlbolt.com/
+
 $\underline{Research\ Links:}$ 
 
 - M. P. Gavali and A. Verma, "Automatic Recognition of Emotions in Speech With Large Self-Supervised Learning Transformer Models," IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings), Sep 16-17, 2023, Michigan, USA.
@@ -46,7 +48,7 @@ Here are some ideas to get you started:
 
 github-readme-stats-tau-dusky.vercel.app
 
-- SQL practise: https://sqlbolt.com/
+
 
 
 ![Mrunal's github stats](https://github-readme-stats-tau-dusky.vercel.app/api?username=Mrunal-G&show_icons=true&hide_border=true)
