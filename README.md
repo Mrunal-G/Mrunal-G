@@ -5,7 +5,7 @@ $\underline{Skills\ and\ Tools:}$
 
 - Programming Languages: Python, R, SQL, C#, HTML /CSS, JavaScript
 - IDEs & version control: Visual Studio Code, Spyder, Visual Studio, Git, GitHub
-- ML libraries and frameworks: Pandas, NumPy, scikit-learn, Pytorch, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, knowledge graphs analytics
+- ML libraries and frameworks: Pandas, NumPy, scikit-learn, Pytorch, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, knowledge graphs
 - Other:  SQL,  Postgres, Linux, bash scripting, Docker, Jira, Google Cloud Platform, Google BigQuery, Google Compute Engine, AWS, S3, AWS Comprehend, AWS SageMaker, Amazon Mechanical Turk, AWS SageMaker Ground Truth, API, Data formats (XML, JSON, parquet), ETL
 - Data Visualization: Google Looker studio, Power BI, Tableau
 - AI/NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper
