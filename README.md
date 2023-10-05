@@ -3,12 +3,12 @@ Passionate about **AI/ML, NLP and Data**
 
 $\underline{Skills\ and\ Tools:}$ 
 
-- Programming Languages: Python, R, SQL, C#, HTML /CSS, JavaScript
+- Programming Languages: Python, R, SQL, C#, C, HTML /CSS, JavaScript
 - IDEs & version control: Visual Studio Code, Spyder, Visual Studio, Git, GitHub
-- ML libraries and frameworks: Pandas, NumPy, scikit-learn, Pytorch, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, knowledge graphs
+- ML libraries and frameworks: Pandas, NumPy, scikit-learn, Pytorch, TorchAudio, Librosa, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, knowledge graphs, NLTK, SpaCy
 - Other:  SQL,  Postgres, Linux, bash scripting, Docker, Jira, Google Cloud Platform, Google BigQuery, Google Compute Engine, AWS, S3, AWS Comprehend, AWS SageMaker, Amazon Mechanical Turk, AWS SageMaker Ground Truth, API, Data formats (XML, JSON, parquet), ETL
-- Data Visualization: Google Looker studio, Power BI
-- AI/NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper, HuBERT, Wav2vec2.0, wav2vec2.0-XLSR (128 Languages) with 300M and 1B parameters, UniSpeech, U-Net, Yolo
+- Data Visualization: Google Looker studio, Power BI, Tableau
+- AI/NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper, HuBERT-Large, Wav2vec2.0, wav2vec2.0-XLSR (128 Languages) with 300M and 1B parameters, UniSpeech, WavLM, U-Net, YOLO
 
 
 
