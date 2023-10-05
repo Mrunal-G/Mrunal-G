@@ -10,7 +10,7 @@ $\underline{Skills\ and\ Tools:}$
 - Data Visualization: Google Looker studio, Power BI
 - AI/NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper, HuBERT, Wav2vec2.0, wav2vec2.0-XLSR (128 Languages) with 300M and 1B parameters, UniSpeech, U-Net, Yolo
 
-  - SQL practice: https://sqlbolt.com/
+
 
 $\underline{Research\ Links:}$ 
 
@@ -56,6 +56,7 @@ github-readme-stats-tau-dusky.vercel.app
 -->
 
 
-Glitch Web-developement projects  -->[Click here to view](https://glitch.com/@mrunalgavali.927)
+- Glitch Web-developement projects  -->[Click here to view](https://glitch.com/@mrunalgavali.927)
+- SQL practice: https://sqlbolt.com/
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrunal-G.Mrunal-G)  
