@@ -1,5 +1,5 @@
 ### Hi there, I'm Mrunal :😄
-Passionate about **AI/ML, NLP and Data** 
+Passionate about **AI/ML, NLP, Speech AI, Acoustic AI, Generative AI  and Data Science** 
 
 $\underline{Skills\ and\ Tools:}$ 
 
