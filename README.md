@@ -1,5 +1,8 @@
 ### Hi there, I'm Mrunal :😄
-Passionate about **AI/ML, NLP, Speech AI, Acoustic AI, Generative AI** 
+
+I am a Software Engineer/ Analytics Engineer passionate about AI, ML, Deep Learning, Generative AI,  NLP, Acoustic / Speech AI analytics and full stack data science.
+Proficient at fine-tuning LLMs for end-to-end data and AI pipeline to extract insights to make informed decisions and passionate
+about building data or AI and LLM Apps using Streamlit.
 
 $\underline{Skills\ and\ Tools:}$ 
 
