@@ -52,18 +52,15 @@ Here are some ideas to get you started:
 github-readme-stats-tau-dusky.vercel.app
 
 
-
-
 ![Mrunal's github stats](https://github-readme-stats-tau-dusky.vercel.app/api?username=Mrunal-G&show_icons=true&hide_border=true)
 <br /> 
 
-
-
-
-- Glitch Web-developement projects  -->[Click here to view](https://glitch.com/@mrunalgavali.927)
-
-
 -->
+
+
+<!-- 
+- Glitch Web-developement projects: [Click here to view](https://glitch.com/@mrunalgavali.927)
+--> 
 
 - SQL: https://sqlbolt.com/
 
