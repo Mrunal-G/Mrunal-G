@@ -56,10 +56,15 @@ github-readme-stats-tau-dusky.vercel.app
 
 ![Mrunal's github stats](https://github-readme-stats-tau-dusky.vercel.app/api?username=Mrunal-G&show_icons=true&hide_border=true)
 <br /> 
--->
+
+
 
 
 - Glitch Web-developement projects  -->[Click here to view](https://glitch.com/@mrunalgavali.927)
+
+
+-->
+
 - SQL: https://sqlbolt.com/
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrunal-G.Mrunal-G)  
