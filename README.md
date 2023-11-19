@@ -18,7 +18,7 @@ $\underline{Research\ Links:}$
 
 <!-- M. P. Gavali and A. Verma, "Automatic Recognition of Emotions in Speech With Large Self-Supervised Learning Transformer Models," IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings), Sep 16-17, 2023, Michigan, USA. --> 
 
-[M. P. Gavali and A. Verma, "Automatic Recognition of Emotions in Speech With Large Self-Supervised Learning Transformer Models," 2023 IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings), Mount Pleasant, MI, USA, 2023, pp. 1-7, doi: 10.1109/AIBThings58340.2023.10292462.](https://ieeexplore.ieee.org/document/10292462)
+- M. P. Gavali and A. Verma, "Automatic Recognition of Emotions in Speech With Large Self-Supervised Learning Transformer Models," 2023 IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings), Mount Pleasant, MI, USA, 2023, pp. 1-7, doi: 10.1109/AIBThings58340.2023.10292462. [IEEE link](https://ieeexplore.ieee.org/document/10292462)
 
 <!--
 
