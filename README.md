@@ -1,15 +1,14 @@
 ### Hi there, I'm Mrunal :😄
 
-I am a Software Engineer/ Analytics Engineer passionate about AI, ML, Deep Learning, Generative AI,  NLP, Acoustic / Speech AI analytics and full stack data science.
-Proficient at fine-tuning LLMs for end-to-end data and AI pipeline to extract insights to make informed decisions and passionate
-about building data or AI and LLM Apps using Streamlit.
+I am a Software Engineer passionate about AI, ML, Deep Learning, Generative AI,  NLP, Acoustic / Speech AI analytics and full stack data science.
+Proficient at fine-tuning and inferencing LLMs for end-to-end data and AI pipeline and enjoy about building data or AI and LLM Apps using Streamlit.
 
 $\underline{Skills\ and\ Tools:}$ 
 
 - Programming Languages: Python, R, SQL, C#, C, HTML /CSS, JavaScript
 - IDEs & version control: Visual Studio Code, PyCharm, Visual Studio,  Spyder, Visual Studio, Git, GitHub
 - ML libraries and frameworks: Pandas, NumPy, scikit-learn, Pytorch, TorchAudio, Librosa, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, knowledge graphs, NLTK, SpaCy
-- Other:  SQL,  Postgres, Linux, bash scripting, Docker, Kubernetes, Jira, Google Cloud Platform, Google BigQuery, Google Compute Engine, AWS, S3, AWS Comprehend, AWS SageMaker, AWS SageMaker Ground Truth, API, Data formats (XML, JSON, parquet), ETL
+- Other: Linux, bash scripting, Docker, Jira, Google Cloud Platform, Google Compute Engine, AWS, S3, AWS Comprehend, AWS SageMaker, AWS SageMaker Ground Truth, API, Data formats (XML, JSON, parquet), ETL, ROS
 - AI/NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper, HuBERT-Large, Wav2vec2.0, wav2vec2.0-XLSR (128 Languages) with 300M and 1B parameters, UniSpeech, WavLM, U-Net, YOLO
 
 
