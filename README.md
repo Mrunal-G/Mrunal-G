@@ -11,7 +11,7 @@ $\underline{Skills\ and\ Tools:}$
 - ML libraries and frameworks: Pandas, NumPy, scikit-learn, Pytorch, TorchAudio, Librosa, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, knowledge graphs, NLTK, SpaCy
 - Other:  SQL,  Postgres, Linux, bash scripting, Docker, Kubernetes, Jira, Google Cloud Platform, Google BigQuery, Google Compute Engine, AWS, S3, AWS Comprehend, AWS SageMaker, AWS SageMaker Ground Truth, API, Data formats (XML, JSON, parquet), ETL
 - AI/NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper, HuBERT-Large, Wav2vec2.0, wav2vec2.0-XLSR (128 Languages) with 300M and 1B parameters, UniSpeech, WavLM, U-Net, YOLO
-- Data Visualization / dashboarding: Google Looker Studio, Power BI
+
 
 
 
