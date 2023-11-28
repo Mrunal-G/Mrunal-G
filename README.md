@@ -13,6 +13,7 @@ $\underline{Skills\ and\ Tools:}$
 
 
 
+- Glitch Web-developement projects: [Click here to view](https://glitch.com/@mrunalgavali.927)
 
 $\underline{Research\ Links:}$ 
 
@@ -64,7 +65,5 @@ github-readme-stats-tau-dusky.vercel.app
 - SQL: https://sqlbolt.com/  
 
 --> 
-
-- Glitch Web-developement projects: [Click here to view](https://glitch.com/@mrunalgavali.927)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrunal-G.Mrunal-G)  
