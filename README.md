@@ -6,8 +6,8 @@ Proficient at fine-tuning and inferencing LLMs for end-to-end data and AI pipeli
 $\underline{Skills\ and\ Tools:}$ 
 
 - Programming Languages: Python, C#, C/C++, R, SQL, HTML /CSS, JavaScript
-- IDEs & version control: Visual Studio Code, PyCharm, Visual Studio,  Spyder, Visual Studio, Git, GitHub
-- ML libraries and frameworks: Pandas, NumPy, scikit-learn, Pytorch, TorchAudio, Librosa, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, knowledge graphs, NLTK, SpaCy
+- IDEs & version control: Visual Studio Code, PyCharm, Visual Studio,  Spyder, Git, GitHub
+- ML libraries and frameworks: Pandas, NumPy, scikit-learn, Pytorch, TorchAudio, Librosa, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, NLTK, SpaCy
 - Other: Linux, bash scripting, Docker, Jira, Google Cloud Platform, Google Compute Engine, AWS, S3, AWS Comprehend, AWS SageMaker, AWS SageMaker Ground Truth, API, Data formats (XML, JSON, parquet), ETL, ROS
 - AI/NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper, HuBERT-Large, Wav2vec2.0, wav2vec2.0-XLSR (128 Languages) with 300M and 1B parameters, UniSpeech, WavLM, U-Net, YOLO
 
