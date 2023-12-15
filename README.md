@@ -1,6 +1,6 @@
 ### Hi there, I'm Mrunal :😄
 
-I am a Software Engineer passionate about AI, ML, Deep Learning, Generative AI,  NLP, Acoustic / Speech AI, reinforcement learning, robotics, IoT and full stack data science.
+I am a Software Engineer passionate about AI, ML, Deep Learning, Generative AI,  NLP, Acoustic / Speech AI, robotics, IoT and Big Data.
 Proficient at fine-tuning and inferencing LLMs for end-to-end data and AI pipeline and enjoy about building data or AI and LLM Apps.
 
 $\underline{Skills\ and\ Tools:}$ 
