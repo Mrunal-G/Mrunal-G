@@ -11,7 +11,7 @@ $\underline{Skills\ and\ Tools:}$
 - AI/NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper, HuBERT-Large, Wav2vec2.0, wav2vec2.0-XLSR (128 Languages) with 300M and 1B parameters, UniSpeech, WavLM, U-Net, YOLO
 
 
-
+- Research paper link:  [IEEE link](https://ieeexplore.ieee.org/document/10292462)
 - Glitch Web-developement projects: [Click here to view](https://glitch.com/@mrunalgavali.927)
 
 <!--
