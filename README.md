@@ -1,14 +1,16 @@
 ### Hi there, I'm Mrunal :😄
 
-I am a Software Engineer passionate about end-to-end data or AI pipeline and enjoy developing full-stack data or web applications.  
+I am a Software Engineer passionate about AI and enjoy developing full-stack web apps.  
+
 
 $\underline{Skills\ and\ Tools:}$ 
 
-- Programming Languages: Python, C#, C/C++, R, SQL, HTML /CSS, JavaScript (data structures and algorithms)
+- Programming Languages: Python, C#, C/C++, R, SQL, HTML /CSS, JavaScript, ReactJs, Typescript   (data structures and algorithms)
 - IDEs & version control: Visual Studio Code, PyCharm, Visual Studio,  Spyder, Git, GitHub
-- ML libraries and frameworks: Pandas, NumPy, scikit-learn, Pytorch, TorchAudio, Librosa, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, NLTK, SpaCy, Assembly AI, SingleStore DB, Airflow, PySpark
+- ML libraries and frameworks: Pandas, NumPy, scikit-learn, Pytorch, TorchAudio, Librosa, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, NLTK, SpaCy, Assembly AI, SingleStore DB, Airflow, PySpark, flask, FastAPI.
 - Other: Linux, bash scripting, Docker, Kubernetes, CI/CD, ETL, Jira, Google Cloud Platform, Google Compute Engine, Vertex AI, AWS, S3, AWS Comprehend, AWS SageMaker, AWS SageMaker Ground Truth, API, Data formats (XML, JSON, parquet)
-- AI/NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper, HuBERT-Large, Wav2vec2.0, wav2vec2.0-XLSR (128 Languages) with 300M and 1B parameters, UniSpeech, WavLM, U-Net, YOLO
+- AI/NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper, HuBERT-Large, Wav2vec2.0, wav2vec2.0-XLSR (128 Languages) with 300M and 1B parameters, UniSpeech, WavLM, U-Net, YOLO, Stable Diffusion, vision transformers
+  
 
 
 - Research paper link:  [IEEE link](https://ieeexplore.ieee.org/document/10292462)
