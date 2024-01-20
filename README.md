@@ -15,7 +15,7 @@ $\underline{Skills\ and\ Tools:}$
 
 - Research paper link:  [IEEE link](https://ieeexplore.ieee.org/document/10292462)
 - Glitch Web-developement projects: [Click here to view](https://glitch.com/@mrunalgavali.927)
-- Portfolio link: https://mrunal-resume-website.glitch.me/
+- Portfolio link: [Click here to view](https://mrunal-resume-website.glitch.me/)
 
 <!--
 $\underline{Research\ Links:}$ -->
