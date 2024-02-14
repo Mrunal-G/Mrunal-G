@@ -6,7 +6,7 @@ I am a Software Engineer passionate about AI and enjoy developing full-stack web
 $\underline{Skills\ and\ Tools:}$ 
 
 - Programming Languages: Python, C#, C (data structures and algorithms)
-- Web Technology:  HTML /CSS, JavaScript, ReactJs, Typescript, Node.Js, Express, RESTful APIs  
+- Web Technology:  HTML /CSS, JavaScript, ReactJs, Typescript, Node.Js, Express, RESTful APIs  (MERN stack)
 - IDEs & version control: Visual Studio Code, PyCharm, Visual Studio, Git, GitHub
 - AI: Pandas, NumPy, scikit-learn, Pytorch, TorchAudio, Librosa, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, flask, FastAPI.
 - Other: Linux, bash scripting, Docker, Kubernetes, CI/CD, ETL, Jira, SQL, Postgres, MongoDB, APIs, Data formats (XML, JSON, parquet)
