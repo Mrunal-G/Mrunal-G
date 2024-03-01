@@ -1,6 +1,6 @@
 ### Hi there, I'm Mrunal :😄
 
-I am a Software Engineer passionate about AI and enjoy developing full-stack web apps.  
+I am an aspiring Product Manager passionate about AI and enjoy developing full-stack web apps.  
 
 
 $\underline{Skills\ and\ Tools:}$ 
