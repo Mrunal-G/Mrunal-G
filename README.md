@@ -1,6 +1,6 @@
 ### Hi there, I'm Mrunal :😄
 
-I am an aspiring Product/ Project Manager passionate about AI and enjoy developing full-stack web apps.  
+I am an aspiring Product/ Project Manager passionate about AI and enjoy developing full-stack web apps. 
 
 
 $\underline{Skills\ and\ Tools:}$ 
@@ -11,7 +11,7 @@ $\underline{Skills\ and\ Tools:}$
 - AI: Pandas, NumPy, scikit-learn, Pytorch, TorchAudio, Librosa, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, flask, FastAPI.
 - Other: Linux, bash scripting, Docker, Kubernetes, CI/CD, ETL, Jira, SQL, Postgres, MongoDB, APIs, Data formats (XML, JSON, parquet)
 - Cloud: Google Cloud Platform, Google Compute Engine, AWS, S3, AWS Comprehend, AWS SageMaker, AWS SageMaker Ground Truth, Microsoft Azure, 
-- AI/NLP Models: BERT, GPT, BART, SciBERT, FinBERT, Google-Flan-T5, Whisper, HuBERT-Large, Wav2vec2.0, wav2vec2.0-XLSR (128 Languages) with 300M and 1B parameters, UniSpeech, WavLM, U-Net, YOLO, Stable Diffusion, vision transformers
+
   
 
 
