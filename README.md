@@ -5,7 +5,7 @@ Enthusiast AI Engineer
 
 $\underline{Skills\ and\ Tools:}$ 
 
-- Technology:  HTML /CSS, JavaScript, ReactJs, Typescript, Tailwindcss, Python, Node.Js, Express, RESTful APIs  (MERN stack)
+- Technology:  Python, SQL, HTML /CSS, JavaScript, ReactJs, Typescript, RESTful APIs
 - IDEs & version control: Visual Studio Code, Git, GitHub
 - AI: Pandas, NumPy, scikit-learn, Pytorch, TorchAudio, Librosa, Keras, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, flask, FastAPI.
 - Other: Linux, bash scripting, Docker, Kubernetes, CI/CD, ETL, Jira, SQL, Postgres, MongoDB, RESTful APIs, Data formats (XML, JSON, parquet)
