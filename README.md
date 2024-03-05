@@ -1,6 +1,6 @@
 ### Hi there, I'm Mrunal :😄
 
-Enthusiast AI Engineer
+AI Enthusiast
 
 
 $\underline{Skills\ and\ Tools:}$ 
