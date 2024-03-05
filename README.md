@@ -1,16 +1,15 @@
 ### Hi there, I'm Mrunal :😄
 
-I am an aspiring Product/ Project Manager passionate about AI and enjoy developing full-stack web apps. 
+I am passionate about AI and enjoy developing web apps. 
 
 
 $\underline{Skills\ and\ Tools:}$ 
 
-- Programming Languages: Python, C#, C (data structures and algorithms)
-- Web Technology:  HTML /CSS, JavaScript, ReactJs, Typescript, Tailwindcss, Node.Js, Express, RESTful APIs  (MERN stack)
-- IDEs & version control: Visual Studio Code, PyCharm, Visual Studio, Git, GitHub
-- AI: Pandas, NumPy, scikit-learn, Pytorch, TorchAudio, Librosa, Tensorflow, Keras, seaborn, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, flask, FastAPI.
-- Other: Linux, bash scripting, Docker, Kubernetes, CI/CD, ETL, Jira, SQL, Postgres, MongoDB, APIs, Data formats (XML, JSON, parquet)
-- Cloud: Google Cloud Platform, Google Compute Engine, AWS, S3, AWS Comprehend, AWS SageMaker, AWS SageMaker Ground Truth, Microsoft Azure, 
+- Technology:  HTML /CSS, JavaScript, ReactJs, Typescript, Tailwindcss, Python, Node.Js, Express, RESTful APIs  (MERN stack)
+- IDEs & version control: Visual Studio Code, Git, GitHub
+- AI: Pandas, NumPy, scikit-learn, Pytorch, TorchAudio, Librosa, Keras, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, flask, FastAPI.
+- Other: Linux, bash scripting, Docker, Kubernetes, CI/CD, ETL, Jira, SQL, Postgres, MongoDB, RESTful APIs, Data formats (XML, JSON, parquet)
+- Cloud: Google Cloud Platform, Google Compute Engine (GCP), AWS, S3, AWS SageMaker, Microsoft Azure 
 
   
 
