@@ -1,10 +1,6 @@
 ### Hi there, I'm Mrunal :😄
 
-I am passionate about AI and enjoy developing web apps. 
-
-Currently learning AI & Typescript.
-Aspire to be product manager.
-
+Enthusiast AI Engineer
 
 
 $\underline{Skills\ and\ Tools:}$ 
