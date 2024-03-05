@@ -2,6 +2,10 @@
 
 I am passionate about AI and enjoy developing web apps. 
 
+Currently learning AI & Typescript.
+Aspire to be product manager.
+
+
 
 $\underline{Skills\ and\ Tools:}$ 
 
