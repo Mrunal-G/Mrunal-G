@@ -1,6 +1,6 @@
 ### Hi there, I'm Mrunal :😄
 
-AI Enthusiast
+I am passionate about AI and enjoy developing web apps.
 
 
 $\underline{Skills\ and\ Tools:}$ 
