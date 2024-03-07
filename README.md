@@ -21,7 +21,7 @@ $\underline{Skills\ and\ Tools:}$
 # PM skills
 - MS Office, MS Project, Github Project, Jira, Kanban, Trello, Scribe, Miro board, Product Requirement Document (PRD), Airtable, MS Teams, Slack, Discord, Looker Studio, Power BI, Software development life cycle (SDLC), AI Life cycle, Agile & Waterfall Methodologies, Scrum, Problem-solving, Team Leadership, Customer Research, User Feedback Analysis, Risk management, Budgeting and scheduling,  Communication, Time management, Stakeholder Management and Continuous Process improvement. 
 
-
+<!-- 
 $\underline{Research\ Links:}$ -->
 
 <!-- M. P. Gavali and A. Verma, "Automatic Recognition of Emotions in Speech With Large Self-Supervised Learning Transformer Models," IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings), Sep 16-17, 2023, Michigan, USA. --> 
