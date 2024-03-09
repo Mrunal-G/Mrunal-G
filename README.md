@@ -5,11 +5,11 @@ I am passionate about AI and enjoy developing web apps.
 
 $\underline{Skills\ and\ Tools:}$ 
 
-- Technology:  Python, SQL, HTML /CSS, JavaScript, ReactJs, Typescript, RESTful APIs
+- Technology: HTML /CSS, JavaScript, ReactJs, Typescript, Python, RESTful APIs
 - IDEs & version control: Visual Studio Code, Git, GitHub
-- AI: Pandas, NumPy, scikit-learn, Pytorch, TorchAudio, Librosa, Keras, Matplotlib, Hugging Face, LangChain, LlamaIndex, Streamlit, Google Colab, Jupyter Notebook, Weights and Biases (wandb) for MLOps, Anaconda, flask, FastAPI.
-- Other: Linux, bash scripting, Docker, Kubernetes, CI/CD, ETL, Jira, SQL, Postgres, MongoDB, RESTful APIs, Data formats (XML, JSON, parquet)
-- Cloud: Google Cloud Platform, Google Compute Engine (GCP), AWS, S3, AWS SageMaker, Microsoft Azure 
+- AI: Pytorch, TorchAudio, Librosa, Keras, Matplotlib, Hugging Face, LangChain, Streamlit, Google Colab, flask, FastAPI.
+- Other: Linux, bash scripting, Docker, Kubernetes, Jira, SQL, Postgres, MongoDB, RESTful APIs
+- Cloud: Google Cloud Platform, Google Compute Engine (GCP), AWS, Microsoft Azure 
 
   
 
