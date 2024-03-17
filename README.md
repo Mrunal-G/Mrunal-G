@@ -5,7 +5,7 @@ I am passionate about AI and enjoy developing web apps.
 
 $\underline{Skills\ and\ Tools:}$ 
 
-- Technology: HTML /CSS, JavaScript, ReactJs, Typescript, Python, RESTful APIs
+- Technology: Python, RESTful APIs, HTML /CSS, JavaScript, ReactJs, Typescript, 
 - IDEs & version control: Visual Studio Code, Git, GitHub
 - AI: Pytorch, TorchAudio, Librosa, Keras, Matplotlib, Hugging Face, LangChain, Streamlit, Google Colab, flask, FastAPI.
 - Other: Linux, bash scripting, Docker, Kubernetes, Jira, SQL, Postgres, MongoDB, RESTful APIs
@@ -18,9 +18,11 @@ $\underline{Skills\ and\ Tools:}$
 - Glitch Web-developement projects: [Click here to view](https://glitch.com/@mrunalgavali.927)
 <!-- - Portfolio link: [Click here to view](https://mrunal-resume-website.glitch.me/)  -->
 
+<!--
 $\underline{PM\ Skills:}$ 
 - MS Office, MS Project, Github Project, Jira, Kanban, Trello, Scribe, Miro board, Product Requirement Document (PRD), Airtable, MS Teams, Slack, Discord, Looker Studio, Power BI, Software development life cycle (SDLC), AI Life cycle, Agile & Waterfall Methodologies, Scrum, Problem-solving, Team Leadership, Customer Research, User Feedback Analysis, Risk management, Budgeting and scheduling,  Communication, Time management, Stakeholder Management and Continuous Process improvement. 
-
+ -->
+ 
 <!-- 
 $\underline{Research\ Links:}$ -->
 
