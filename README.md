@@ -1,6 +1,6 @@
 ### Hi there, I'm Mrunal :😄
 
-AI & robotics enthusiast. Enjoy building things!
+I am Software Engineer passionate about AI & robotics. Enjoy developing mobile & web apps.
 
 
 $\underline{Skills\ and\ Tools:}$ 
