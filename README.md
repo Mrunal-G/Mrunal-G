@@ -5,7 +5,7 @@ I am Software Engineer passionate about AI & robotics. Enjoy developing mobile &
 
 $\underline{Skills\ and\ Tools:}$ 
 
-- Technology: Python, RESTful APIs, HTML /CSS, JavaScript, ReactJs, Typescript, 
+- Technology: Python, RESTful APIs, HTML /CSS, JavaScript, ReactJs, Next.Js, Node.js, three.js, Typescript, 
 - IDEs & version control: Visual Studio Code, Git, GitHub
 - AI: Pytorch, TorchAudio, Librosa, Keras, Matplotlib, Hugging Face, LangChain, Streamlit, Google Colab, flask, FastAPI.
 - Other: Linux, bash scripting, Docker, Kubernetes, Jira, SQL, Postgres, MongoDB, RESTful APIs
