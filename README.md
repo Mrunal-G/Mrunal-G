@@ -3,7 +3,7 @@
 I am Software Engineer passionate about AI & robotics. Enjoy developing mobile & web apps.
 
 
-$\underline{Skills\ and\ Tools:}$ 
+$\underline{Technical Skills\ and\ Tools:}$ 
 
 - Technology: Python, RESTful APIs, HTML /CSS, JavaScript, ReactJs, Next.Js, Node.js, three.js, Typescript, 
 - IDEs & version control: Visual Studio Code, Git, GitHub
@@ -20,7 +20,7 @@ $\underline{Skills\ and\ Tools:}$
 
 
 $\underline{PM\ Skills:}$ 
-- MS Office, MS Project, Github Project, Jira, Kanban, Trello, Scribe, Miro board, Product Requirement Document (PRD), Airtable, MS Teams, Slack, Discord, Looker Studio, Power BI, Software development life cycle (SDLC), AI Life cycle, Agile & Waterfall Methodologies, Scrum, Problem-solving, Team Leadership, Customer Research, User Feedback Analysis, Risk management, Budgeting and scheduling,  Communication, Time management, Stakeholder Management and Continuous Process improvement. 
+-  Microsoft Office 365 Suite and Apps, MS Project, Github Project, Jira, Kanban, Trello, Scribe, Miro board, Product Requirement Document (PRD), Airtable, MS Teams, Slack, Discord, Looker Studio, Power BI, Software development life cycle (SDLC), AI Life cycle, Agile & Waterfall Methodologies, Scrum, Problem-solving, Team Leadership, Customer Research, User Feedback Analysis, Risk management, Budgeting and scheduling,  Communication, Time management, Stakeholder Management and Continuous Process improvement. 
 
  
 <!-- 
