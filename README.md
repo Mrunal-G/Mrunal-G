@@ -3,7 +3,7 @@
 I am Software Engineer passionate about AI & robotics. Enjoy developing mobile & web apps.
 
 
-$\underline{Technical Skills\ and\ Tools:}$ 
+$\underline{Technical\ Skills\ and\ Tools:}$ 
 
 - Technology: Python, RESTful APIs, HTML /CSS, JavaScript, ReactJs, Next.Js, Node.js, three.js, Typescript, 
 - IDEs & version control: Visual Studio Code, Git, GitHub
