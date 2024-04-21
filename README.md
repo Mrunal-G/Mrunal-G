@@ -20,7 +20,7 @@ $\underline{Technical\ Skills\ and\ Tools:}$
 
 
 $\underline{PM\ Skills:}$ 
--  Microsoft Office 365 Suite and Apps, MS Project, Github Project, Jira, Kanban, Trello, Scribe, Miro board, Product Requirement Document (PRD), Airtable, MS Teams, Slack, Discord, Looker Studio, Power BI, Software development life cycle (SDLC), AI Life cycle, Agile & Waterfall Methodologies, Scrum, Problem-solving, Team Leadership, Customer Research, User Feedback Analysis, Risk management, Budgeting and scheduling,  Communication, Time management, Stakeholder Management and Continuous Process improvement. 
+-  Microsoft Office 365 Suite and Apps, MS Project, Github Project, Jira, Kanban, Trello, Scribe, Miro board, Product Requirement Document (PRD), Airtable, MS Teams, Slack, Discord, Looker Studio, Power BI, Software development life cycle (SDLC), AI Life cycle, Agile & Waterfall Methodologies, Problem-solving, Team Leadership, Customer Research, User Feedback Analysis, Risk management, Budgeting and scheduling,  Communication, Time management, Stakeholder Management and Continuous Process improvement. 
 
  
 <!-- 
@@ -69,17 +69,16 @@ github-readme-stats-tau-dusky.vercel.app
 ![Mrunal's github stats](https://github-readme-stats-tau-dusky.vercel.app/api?username=Mrunal-G&show_icons=true&hide_border=true)
 <br /> 
 
--->
 
-
-<!-- 
 
 
 - SQL: https://sqlbolt.com/  
 
---> 
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mrunal-G.Mrunal-G) 
+
+--> 
 
 <p align="left">   
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="40" height="40"/></a>
