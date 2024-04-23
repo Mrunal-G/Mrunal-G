@@ -1,6 +1,6 @@
 ### Hi there, I'm Mrunal :😄
 
-I am Software Engineer passionate about AI & human-robot interaction (HRI). Enjoy developing mobile & web apps.
+I am Software Engineer/ Data Scientist passionate about AI, analytics & human-robot interaction (HRI). Enjoy developing mobile & web apps.
 
 
 $\underline{Technical\ Skills\ and\ Tools:}$ 
