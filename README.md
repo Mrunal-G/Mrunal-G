@@ -22,10 +22,10 @@ $\underline{Technical\ Skills\ and\ Tools:}$
 - Glitch Web-developement projects: [Click here to view](https://glitch.com/@mrunalgavali.927)
 <!-- - Portfolio link: [Click here to view](https://mrunal-resume-website.glitch.me/)  -->
 
-
+<!--
 $\underline{PM\ Skills:}$ 
 -  Microsoft Office 365 Suite and Apps, MS Project, Github Project, Jira, Kanban, Trello, Scribe, Miro board, Product Requirement Document (PRD), Airtable, MS Teams, Slack, Discord, Looker Studio, Power BI, Software development life cycle (SDLC), AI Life cycle, Agile & Waterfall Methodologies, Problem-solving, Team Leadership, Customer Research, User Feedback Analysis, Risk management, Budgeting and scheduling,  Communication, Time management, Stakeholder Management and Continuous Process improvement. 
-
+-->
  
 <!-- 
 $\underline{Research\ Links:}$ -->
