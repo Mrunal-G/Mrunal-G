@@ -1,6 +1,6 @@
 ### Hi there, I'm Mrunal :😄
 
-I am Software Engineer. Enjoy developing mobile & web apps (UI/UX).
+I am Software Engineer. Enjoy developing AI, mobile & web apps (UI/UX).
 
 
 - 🔭 I’m currently working on developing Typescript app
