@@ -3,7 +3,8 @@
 I am Software Engineer. Enjoy developing mobile & web apps (UI/UX).
 
 
-- 🔭 I’m currently working on developing Threejs Typescript app
+- 🔭 I’m currently working on developing Typescript app
+- 🌱 I’m currently learning developing mobile apps using react native
 - 📫 How to reach me: mrunalgee001@gmail.com
   
 $\underline{Technical\ Skills\ and\ Tools:}$ 
