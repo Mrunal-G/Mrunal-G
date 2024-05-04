@@ -1,14 +1,18 @@
 ### Hi there, I'm Mrunal :😄
 
-I am Software Engineer passionate about AI & human-robot interaction (HRI). Enjoy developing mobile & web apps (UI/UX).
+I am Software Engineer. Enjoy developing mobile & web apps (UI/UX).
 
 
+- 🔭 I’m currently working on developing Threejs Typescript app
+- 🌱 I’m currently learning developing mobile apps with ionic and react native
+- 📫 How to reach me: mrunalgee001@gmail.com
+  
 $\underline{Technical\ Skills\ and\ Tools:}$ 
 
 - Technology: Python, RESTful APIs, HTML /CSS, JavaScript, ReactJs, Next.Js, Node.js, three.js, Typescript, 
 - IDEs & version control: Visual Studio Code, Git, GitHub
-- AI: Pytorch, TorchAudio, Librosa, Keras, Matplotlib, Hugging Face, LangChain, Streamlit, Google Colab, flask, FastAPI.
-- Other: Linux, bash scripting, Docker, Kubernetes, Jira, SQL, Postgres, MongoDB, RESTful APIs
+- AI: Pytorch, TorchAudio, Librosa, Keras, Hugging Face, LangChain, Streamlit, Google Colab, flask, FastAPI.
+- Other: Linux, bash scripting, Docker, Kubernetes, Jira, SQL, MongoDB, RESTful APIs
 - Cloud: Google Cloud Platform, Google Compute Engine (GCP), AWS, Microsoft Azure 
 
   
