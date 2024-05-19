@@ -3,7 +3,7 @@
   
 $\underline{Technical\ Skills\ and\ Tools:}$ 
 
-- Technology: Python, RESTful APIs, HTML /CSS, JavaScript, ReactJs, Next.Js, Node.js, three.js, Typescript, 
+- Technology: Python, RESTful APIs, HTML /CSS, JavaScript, ReactJs, Next.Js, Node.js, Typescript, 
 - IDEs & version control: Visual Studio Code, Git, GitHub
 - AI: Pytorch, TorchAudio, Librosa, Keras, Hugging Face, LangChain, Streamlit, Google Colab, flask, FastAPI.
 - Other: Linux, bash scripting, Docker, Kubernetes, Jira, SQL, MongoDB, RESTful APIs
