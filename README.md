@@ -13,8 +13,8 @@ $\underline{Technical\ Skills\ and\ Tools:}$
 
 
 - Research paper link:  [IEEE link](https://ieeexplore.ieee.org/document/10292462)
-- Glitch Web-developement projects: [Click here to view](https://glitch.com/@mrunalgavali.927)
-<!-- - Portfolio link: [Click here to view](https://mrunal-resume-website.glitch.me/)  -->
+<!-- Glitch Web-developement projects: [Click here to view](https://glitch.com/@mrunalgavali.927)
+ - Portfolio link: [Click here to view](https://mrunal-resume-website.glitch.me/)  -->
 
 <!--
 $\underline{PM\ Skills:}$ 
