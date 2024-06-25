@@ -6,7 +6,7 @@ $\underline{Technical\ Skills\ and\ Tools:}$
 - Technology: Python, RESTful APIs, HTML /CSS, JavaScript, ReactJs, Next.Js, Node.js, Typescript, 
 - IDEs & version control: Visual Studio Code, Git, GitHub
 - AI: Pytorch, TorchAudio, Librosa, Keras, Hugging Face, LangChain, Streamlit, Google Colab, flask, FastAPI.
-- Other: Linux, bash scripting, Docker, Kubernetes, Jira, SQL, MongoDB, RESTful APIs
+- Other: Linux, bash scripting, Docker, Jira, SQL, MongoDB, RESTful APIs
 - Hardware: real-time embedded systems, microcontroller systems, arduino, STM32 Cortex M-4 ARM boards, sensors, robots
 - Cloud: Google Cloud Platform, Google Compute Engine (GCP), AWS, Microsoft Azure 
 
