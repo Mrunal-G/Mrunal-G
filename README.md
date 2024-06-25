@@ -7,10 +7,11 @@ $\underline{Technical\ Skills\ and\ Tools:}$
 - IDEs & version control: Visual Studio Code, Git, GitHub
 - AI: Pytorch, TorchAudio, Librosa, Keras, Hugging Face, LangChain, Streamlit, Google Colab, flask, FastAPI.
 - Other: Linux, bash scripting, Docker, Kubernetes, Jira, SQL, MongoDB, RESTful APIs
+- Hardware: real-time embedded systems, microcontroller systems, arduino, STM32 Cortex M-4 ARM boards, sensors, robots
 - Cloud: Google Cloud Platform, Google Compute Engine (GCP), AWS, Microsoft Azure 
 
   
-
+I extend my deepest gratitude to the National Aeronautics and Space Administration (NASA) for their support through the NASA-MIRO research fellowship program during my Masters at the Autonomy Research Center for STEAHM (ARCS) at California State University Northridge. This work was made possible by the resources and opportunities provided by this esteemed program.
 
 - Research paper link:  [IEEE link](https://ieeexplore.ieee.org/document/10292462)
 <!-- Glitch Web-developement projects: [Click here to view](https://glitch.com/@mrunalgavali.927)
