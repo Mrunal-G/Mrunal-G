@@ -14,7 +14,7 @@ $\underline{Technical\ Skills\ and\ Tools:}$
 I extend my deepest gratitude to the National Aeronautics and Space Administration (NASA) for their support through the NASA-MIRO research fellowship program at the Autonomy Research Center for STEAHM (ARCS) during my Masters at California State University Northridge. <!-- This work was made possible by the resources and opportunities provided by this esteemed program.  -->
 
 $\underline{Research\ papers\ links:}$
-  - International Conference Paper 2023:  [IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings)](https://ieeexplore.ieee.org/document/10292462)
+  - International Conference Paper 2023:  [IEEE International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings)](https://abhishek-verma-csun.github.io/publication/2023AIBThings.pdf)
   
   - Journal Paper:  [International Journal of Data Mining, Modeling, and
 Management, 2024](https://abhishek-verma-csun.github.io/publication/2024IJDMMM.pdf)
