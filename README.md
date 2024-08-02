@@ -3,11 +3,13 @@
   
 $\underline{Technical\ Skills\ and\ Tools:}$ 
 
-- Technology: Python, RESTful APIs, HTML /CSS, JavaScript, ReactJs, Next.Js, Node.js, Typescript, Wix
-- IDEs & version control: Visual Studio Code, Git, GitHub, Canva, Miro
-- AI: Pytorch, TorchAudio, Librosa, Keras, Hugging Face, LangChain, Streamlit, Google Colab, flask, FastAPI.
+- Technology: Python, HTML /CSS, JavaScript, ReactJs, Next.Js, Node.js, Typescript, 
+- IDEs & version control: Visual Studio Code, Git, GitHub, Microsoft Planner, Wix, Canva, Miro
+- AI: Pytorch, TorchAudio, Librosa, Keras, Hugging Face, LangChain, Streamlit, Google Colab, jupyter notebooks, Anaconda, flask, FastAPI.
 - Other: Linux, bash scripting, Docker, SQL, MongoDB, RESTful APIs, GCP, AWS
 - Hardware: real-time embedded systems, microcontroller systems, jetson nano, orin and other nvidia GPU boards, arduino, STM32 Cortex M-4 ARM boards, intel sensors, robots
+- Team Leadership, Customer Research, Presentations, User Feedback Analysis, Large language model (LLM) prompt engineering for few & zero shot. 
+
 
 
   
