@@ -122,4 +122,4 @@ github-readme-stats-tau-dusky.vercel.app
 
 -->
 
-`#Society of Women Engineers` `#Eta Kappa Nu (IEEE-HKN)`
+`#Society of Women Engineers` 
