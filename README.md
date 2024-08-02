@@ -121,5 +121,3 @@ github-readme-stats-tau-dusky.vercel.app
 </p>
 
 -->
-
-`#Society of Women Engineers` 
