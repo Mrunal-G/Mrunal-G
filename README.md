@@ -6,9 +6,9 @@ $\underline{Technical\ Skills\ and\ Tools:}$
 - Technology: Python, RESTful APIs, HTML /CSS, JavaScript, ReactJs, Next.Js, Node.js, Typescript, Wix
 - IDEs & version control: Visual Studio Code, Git, GitHub, Canva, Miro
 - AI: Pytorch, TorchAudio, Librosa, Keras, Hugging Face, LangChain, Streamlit, Google Colab, flask, FastAPI.
-- Other: Linux, bash scripting, Docker, Jira, SQL, MongoDB, RESTful APIs
+- Other: Linux, bash scripting, Docker, SQL, MongoDB, RESTful APIs, GCP, AWS
 - Hardware: real-time embedded systems, microcontroller systems, jetson nano, orin and other nvidia boards, arduino, STM32 Cortex M-4 ARM boards, intel sensors, robots
-- Cloud: Google Cloud Platform, Google Compute Engine (GCP), AWS, Microsoft Azure 
+
 
   
 I extend my deepest gratitude to the National Aeronautics and Space Administration (NASA) for their support through the NASA-MIRO research fellowship program at the Autonomy Research Center for STEAHM (ARCS) during my Masters at California State University Northridge. <!-- This work was made possible by the resources and opportunities provided by this esteemed program.  -->
