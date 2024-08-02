@@ -7,7 +7,7 @@ $\underline{Technical\ Skills\ and\ Tools:}$
 - IDEs & version control: Visual Studio Code, Git, GitHub, Canva, Miro
 - AI: Pytorch, TorchAudio, Librosa, Keras, Hugging Face, LangChain, Streamlit, Google Colab, flask, FastAPI.
 - Other: Linux, bash scripting, Docker, SQL, MongoDB, RESTful APIs, GCP, AWS
-- Hardware: real-time embedded systems, microcontroller systems, jetson nano, orin and other nvidia boards, arduino, STM32 Cortex M-4 ARM boards, intel sensors, robots
+- Hardware: real-time embedded systems, microcontroller systems, jetson nano, orin and other nvidia GPU boards, arduino, STM32 Cortex M-4 ARM boards, intel sensors, robots
 
 
   
